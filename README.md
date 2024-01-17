@@ -1,5 +1,5 @@
 # Cricket-Dream-Team-Project
-#B.tech project Python
+#Beginners project Python
 import random
 import mysql.connector
 from tkinter import *
