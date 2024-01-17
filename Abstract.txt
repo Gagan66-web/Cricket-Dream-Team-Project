@@ -1,0 +1,7 @@
+This program allows users to create thier Dream Team.
+This is done by asking the users to enter the number of players and player types(allrounder,batsman,bowler).
+Depending on the Player Type the inputs vary such(runs scored ,balls faced, score conceded ,overs done ).
+After entering inputs it creates a database containg name, balls face and also calculate values from inputs(strike rate ,economy),etc and displays it to the user.
+Then provides a Team rating based on the  overs faced by the team. It is also flexible as it allows to add more player,try from scratch ,etc.
+
+Project is implemented using Mysql(Mysql.connector),Tkinter(GUI framework in python) , random module,and many user defined functions.
